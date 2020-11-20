@@ -82,9 +82,9 @@ which can be found in [opencv_contrib](https://github.com/opencv/opencv_contrib/
 
 ## Key Relative Publications
 
-1) P. JIA, [2D Statistical Models](http://www.visionopen.com/members/jiapei/techreport/pei_sm2dreport2010.pdf), Technical Report of Vision Open Working Group, 2st Edition, Oct 21, 2010.
+1) P. JIA, [2D Statistical Models](http://www.visionopen.com/members/jiapei/techreport/pei_sm2d2010.pdf), Technical Report of Vision Open Working Group, 2st Edition, Oct 21, 2010.
 
-2) P. JIA. [Audio-visual based HMI for an Intelligent Wheelchair](http://www.visionopen.com/members/jiapei/techreport/pei_thesischapter34.pdf). PhD thesis, University of Essex, 2010.
+2) P. JIA. [Audio-visual based HMI for an Intelligent Wheelchair](http://www.visionopen.com/members/jiapei/publications/phdthesis_chapter34.pdf). PhD thesis, University of Essex, 2010.
 
 3) T. Cootes and C. Taylor. [Statistical models of appearance for computer
 vision](http://www.face-rec.org/algorithms/aam/app_models.pdf). Technical report, Imaging Science and Biomedical Engineering, University of Manchester, March 8 2004.
